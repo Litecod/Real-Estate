@@ -1,0 +1,15 @@
+.c-wrapper {
+    width: 100%;
+}
+.c-container {
+    width: 90%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 1rem;
+}
+.c-container>img {
+    width: 9rem;
+    margin: auto;
+}
